@@ -1,0 +1,14 @@
+//Colors
+$dark:       #191d21;
+$white:    #ffffff;
+
+//Body style
+$body-bg:       $dark;
+$body-color:    $white;
+
+//Tooltip
+$tooltip-bg:    $white;
+$tooltip-color: $dark;
+
+
+@import '../../../node_modules/bootstrap/scss/bootstrap';
